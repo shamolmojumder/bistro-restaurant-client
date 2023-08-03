@@ -10,5 +10,4 @@ Currently, two official plugins are available:
 
 
 # Home
-
- <img src=" https://i.ibb.co/wSLPHCY/Screenshot-2023-08-03-at-11-53-41-Bistro-Restaurant.png" alt="Bistro Restaurant " />
+<img src=" https://i.ibb.co/wSLPHCY/Screenshot-2023-08-03-at-11-53-41-Bistro-Restaurant.png" alt="Bistro Restaurant " />
