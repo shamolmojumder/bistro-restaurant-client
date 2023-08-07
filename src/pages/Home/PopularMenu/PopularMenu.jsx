@@ -21,6 +21,9 @@ const PopularMenu = () => {
             <div className="grid md:grid-cols-2 gap-10">
                 {menu.map(item=><MenuItem key={item._id} item={item}></MenuItem> )}
             </div>
+            <div className="my-4 flex justify-center">
+            <button className="border-b-4 border-black">ORDER YOUR FAVOURITE FOOD</button>
+            </div>
         </section>
     );
 };
