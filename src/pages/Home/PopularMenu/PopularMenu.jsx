@@ -22,7 +22,7 @@ const PopularMenu = () => {
                 {menu.map(item=><MenuItem key={item._id} item={item}></MenuItem> )}
             </div>
             <div className="my-4 flex justify-center">
-            <button className="border-b-4 border-black">ORDER YOUR FAVOURITE FOOD</button>
+            <button className="btn btn-outline border-0 border-b-4">ORDER YOUR FAVOURITE FOOD</button>
             </div>
         </section>
     );
