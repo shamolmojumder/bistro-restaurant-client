@@ -12,5 +12,9 @@ Currently, two official plugins are available:
 # Home
 <img src="https://i.ibb.co/Qv5QhBq/Screenshot-2023-09-13-at-01-28-18-Bistro-Boss-Home.png" alt="Bistro Restaurant|| Client" />
 
+
+
+
+
 # Our Menu
-<img src="https://i.ibb.co/pW4hcpP/Screenshot-2023-09-13-at-01-30-46-Bistro-Boss-Menu.png" alt="Bistro Restaurant|| Client" />
+<img src="https://i.ibb.co/pW4hcpP/Screenshot-2023-09-13-at-01-30-46-Bistro-Boss-Menu.png" alt="Bistro Restaurant|| Our Menu" />
